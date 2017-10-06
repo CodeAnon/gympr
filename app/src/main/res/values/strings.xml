@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GymPr</string>
+    <string name="gym_search_hint">Choose a gym</string>
+    <string name="gym_search_button">Search</string>
+    <string name="select_button">Select</string>
+    <string name="add_button">Add</string>
+</resources>
